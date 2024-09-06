@@ -2,3 +2,5 @@ streamlit
 matplotlib
 requests
 Pillow==9.1.1
+pip==23.1.2
+setuptools==68.0.0
