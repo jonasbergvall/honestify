@@ -1,4 +1,4 @@
 streamlit
 matplotlib
 requests
-Pillow==9.5.0  # Specific version known to work well without compilation
+Pillow==8.4.0
