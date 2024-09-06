@@ -1,4 +1,3 @@
 streamlit==1.38.0
 matplotlib
-requests
 Pillow==9.1.1
