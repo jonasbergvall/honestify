@@ -82,7 +82,7 @@ if uuid_input:
                 ax.get_yaxis().set_visible(False)
 
                 # Plot bars with earth tone colors
-                ax.bar(["Yes", "No"], [yes_count, no_count], color=['#8E6C47', '#BC9F77'])
+                ax.bar(["Yes", "No"], [yes_count, no_count], color=['#5f93ad', '#47768e'])
 
                 # Add the title and remove axis labels
                 ax.set_title("Responses: Yes vs No", fontsize=16)
